@@ -5,6 +5,9 @@
 * [FFXIV Wiki](https://ffxiv.consolegameswiki.com/wiki/FF14_Wiki)
 * [GamerEscape](https://ffxiv.gamerescape.com/wiki/Main_Page)
 
+### Classes/Jobs
+* [Blue Mage Skills](https://docs.google.com/document/d/1i_Ck9MOS-SlAP5_rVy7TV0AOZqgQ_jurqF-8vZi01cQ/mobilebasic)
+
 ### Housing
 * [FF14 Housing](http://en.ff14housing.com)
 * [Decorating Tips](https://www.mmogah.com/news/ffxiv/ffxiv-house-decorator-s-guide)
