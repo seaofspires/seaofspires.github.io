@@ -13,6 +13,7 @@
 
 ### Crafting
 * [Macros](https://docs.google.com/document/d/1_US6mDcmHuN5Xtf7Ub0KLE4aIzL6DAM2jpq2Phmob88/edit)
+* [FFXIV Crafting](https://ffxivcrafting.com/)
 * I use Garland Tools to calculate materials needed for a project
 
 
